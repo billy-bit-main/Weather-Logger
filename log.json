@@ -183,5 +183,59 @@
                 10.436
             ]
         }
+    ],
+    [
+        {
+            "eventid": 1001279,
+            "eventtype": "TC",
+            "alertlevel": "Red",
+            "country": "Guam, Northern Mariana Islands, Japan, Taiwan, China",
+            "headline": "No headline",
+            "fromdate": "2026-07-01T00:00:00",
+            "todate": "2026-07-06T06:00:00",
+            "coordinates": [
+                144.0,
+                14.9
+            ]
+        },
+        {
+            "eventid": 1029331,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "France",
+            "headline": "No headline",
+            "fromdate": "2026-07-04T00:00:00",
+            "todate": "2026-07-06T00:00:00",
+            "coordinates": [
+                2.567,
+                42.6717
+            ]
+        },
+        {
+            "eventid": 1029260,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "Portugal",
+            "headline": "No headline",
+            "fromdate": "2026-07-02T00:00:00",
+            "todate": "2026-07-05T00:00:00",
+            "coordinates": [
+                -8.2824,
+                40.6205
+            ]
+        },
+        {
+            "eventid": 1001281,
+            "eventtype": "TC",
+            "alertlevel": "Orange",
+            "country": "Viet Nam, China, Laos",
+            "headline": "No headline",
+            "fromdate": "2026-07-01T18:00:00",
+            "todate": "2026-07-04T18:00:00",
+            "coordinates": [
+                107.9,
+                21.6
+            ]
+        }
     ]
 ]

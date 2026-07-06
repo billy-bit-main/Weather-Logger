@@ -9,10 +9,10 @@ Sample event rows:
 Country counts:
                               count
 country                            
+China                             4
 Argentina                         2
 Brazil                            2
 Indonesia                         2
-China                             2
 Philippines                       2
 Venezuela                         2
 Bolivia                           1
@@ -25,20 +25,30 @@ Republic of Congo                 1
 Gabon                             1
 Zambia                            1
 Madagascar                        1
+Guam                              1
+Northern Mariana Islands          1
+Japan                             1
+Taiwan                            1
+France                            1
+Portugal                          1
+Viet Nam                          1
+Laos                              1
 
 Event type counts:
            count
 eventtype       
 DR            13
+TC             8
 EQ             7
+WF             2
 FL             1
 VO             1
 
 Alert level counts:
             count
 alertlevel       
-Orange         20
-Red             2
+Orange         25
+Red             7
 
 Average event duration by country (days):
                               avg_duration
@@ -51,12 +61,20 @@ Brazil                               705.0
 Madagascar                           176.0
 Uruguay                              164.0
 Angola                               144.0
-Zambia                               144.0
 Republic of Congo                    144.0
+Zambia                               144.0
 Gabon                                144.0
 Democratic Republic of Congo         144.0
+Northern Mariana Islands               5.0
+Taiwan                                 5.0
+Japan                                  5.0
+Guam                                   5.0
+Portugal                               3.0
+Laos                                   3.0
+Viet Nam                               3.0
+China                                  2.0
+France                                 2.0
 Indonesia                              0.0
-China                                  0.0
 Philippines                            0.0
 Venezuela                              0.0
 
@@ -65,5 +83,7 @@ Average event duration by event type (days):
 eventtype              
 DR                602.2
 FL                 89.0
+TC                  4.2
+WF                  2.5
 EQ                  0.0
 VO                  0.0
