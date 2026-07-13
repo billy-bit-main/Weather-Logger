@@ -9,7 +9,7 @@ Sample event rows:
 Country counts:
                               count
 country                            
-China                             4
+China                             5
 Argentina                         2
 Brazil                            2
 Indonesia                         2
@@ -40,14 +40,14 @@ eventtype
 DR            13
 TC             8
 EQ             7
+FL             2
 WF             2
-FL             1
 VO             1
 
 Alert level counts:
             count
 alertlevel       
-Orange         25
+Orange         26
 Red             7
 
 Average event duration by country (days):
@@ -65,14 +65,14 @@ Republic of Congo                    144.0
 Zambia                               144.0
 Gabon                                144.0
 Democratic Republic of Congo         144.0
+China                                  7.8
 Northern Mariana Islands               5.0
-Taiwan                                 5.0
 Japan                                  5.0
 Guam                                   5.0
+Taiwan                                 5.0
 Portugal                               3.0
-Laos                                   3.0
 Viet Nam                               3.0
-China                                  2.0
+Laos                                   3.0
 France                                 2.0
 Indonesia                              0.0
 Philippines                            0.0
@@ -82,7 +82,7 @@ Average event duration by event type (days):
            avg_duration
 eventtype              
 DR                602.2
-FL                 89.0
+FL                 60.0
 TC                  4.2
 WF                  2.5
 EQ                  0.0

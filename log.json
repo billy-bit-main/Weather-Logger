@@ -237,5 +237,20 @@
                 21.6
             ]
         }
+    ],
+    [
+        {
+            "eventid": 1103933,
+            "eventtype": "FL",
+            "alertlevel": "Orange",
+            "country": "China",
+            "headline": "No headline",
+            "fromdate": "2026-06-06T01:00:00",
+            "todate": "2026-07-07T01:00:00",
+            "coordinates": [
+                111.0272,
+                27.1176
+            ]
+        }
     ]
 ]
