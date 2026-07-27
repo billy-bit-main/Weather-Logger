@@ -252,5 +252,98 @@
                 27.1176
             ]
         }
+    ],
+    [
+        {
+            "eventid": 1029628,
+            "eventtype": "WF",
+            "alertlevel": "Red",
+            "country": "France",
+            "headline": "No headline",
+            "fromdate": "2026-07-22T00:00:00",
+            "todate": "2026-07-27T00:00:00",
+            "coordinates": [
+                -1.0371,
+                44.8473
+            ]
+        },
+        {
+            "eventid": 1029643,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "Spain",
+            "headline": "No headline",
+            "fromdate": "2026-07-22T00:00:00",
+            "todate": "2026-07-27T00:00:00",
+            "coordinates": [
+                -4.5437,
+                40.3581
+            ]
+        },
+        {
+            "eventid": 1029794,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "Spain",
+            "headline": "No headline",
+            "fromdate": "2026-07-25T00:00:00",
+            "todate": "2026-07-27T00:00:00",
+            "coordinates": [
+                -0.249,
+                39.8833
+            ]
+        },
+        {
+            "eventid": 1001294,
+            "eventtype": "TC",
+            "alertlevel": "Orange",
+            "country": "China, Philippines",
+            "headline": "No headline",
+            "fromdate": "2026-07-23T06:00:00",
+            "todate": "2026-07-26T00:00:00",
+            "coordinates": [
+                114.5,
+                22.9
+            ]
+        },
+        {
+            "eventid": 1018332,
+            "eventtype": "DR",
+            "alertlevel": "Orange",
+            "country": "Albania, Austria, Bosnia & Herzegovina, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Italy, Liechtenstein, Monaco, Montenegro, The Republic of North Macedonia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, San Marino, Ukraine, , ",
+            "headline": "No headline",
+            "fromdate": "2025-12-11T00:00:00",
+            "todate": "2026-07-25T00:00:00",
+            "coordinates": [
+                13.109,
+                47.877
+            ]
+        },
+        {
+            "eventid": 1027450,
+            "eventtype": "DR",
+            "alertlevel": "Orange",
+            "country": "Ethiopia, Kenya, Somalia",
+            "headline": "No headline",
+            "fromdate": "2026-04-21T00:00:00",
+            "todate": "2026-07-25T00:00:00",
+            "coordinates": [
+                44.618,
+                6.545
+            ]
+        },
+        {
+            "eventid": 1029540,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "Spain",
+            "headline": "No headline",
+            "fromdate": "2026-07-18T00:00:00",
+            "todate": "2026-07-25T00:00:00",
+            "coordinates": [
+                -3.0589,
+                41.1147
+            ]
+        }
     ]
 ]
