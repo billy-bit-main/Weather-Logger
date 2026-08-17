@@ -9,15 +9,15 @@ Sample event rows:
 Country counts:
                                  count
 country                               
-China                               10
-Spain                                5
+China                               11
+Spain                                6
 Philippines                          4
+Indonesia                            3
 Japan                                3
 France                               3
 Argentina                            2
 Brazil                               2
 Democratic Republic of Congo         2
-Indonesia                            2
 Venezuela                            2
                                      2
 Kenya                                2
@@ -68,91 +68,107 @@ Canada                               1
 Tanzania                             1
 Uganda                               1
 Greece                               1
+Belize                               1
+Guatemala                            1
+Honduras                             1
+Mexico                               1
+Nicaragua                            1
+El Salvador                          1
+Belgium                              1
+Colombia                             1
 
 Event type counts:
            count
 eventtype       
-DR            48
+DR            54
+EQ            13
 TC            13
-EQ            11
-WF            10
-FL             3
+WF            12
+FL             4
 VO             1
 
 Alert level counts:
             count
 alertlevel       
-Orange         77
-Red             9
+Orange         86
+Red            11
 
 Average event duration by country (days):
                                  avg_duration
 country                                      
-Bolivia                                1321.0
 Peru                                   1321.0
 Paraguay                               1321.0
+Bolivia                                1321.0
 Argentina                               742.5
 Brazil                                  705.0
-Belarus                                 226.0
-Albania                                 226.0
-Bulgaria                                226.0
-Bosnia & Herzegovina                    226.0
                                         226.0
+Albania                                 226.0
+San Marino                              226.0
+Belarus                                 226.0
+Bosnia & Herzegovina                    226.0
 Austria                                 226.0
+Czech Republic                          226.0
+Croatia                                 226.0
+Liechtenstein                           226.0
+Germany                                 226.0
 Hungary                                 226.0
 Italy                                   226.0
 Denmark                                 226.0
-Germany                                 226.0
+Bulgaria                                226.0
+Monaco                                  226.0
+Poland                                  226.0
+Serbia                                  226.0
+Slovakia                                226.0
 Ukraine                                 226.0
 The Republic of North Macedonia         226.0
 Switzerland                             226.0
-San Marino                              226.0
-Montenegro                              226.0
-Poland                                  226.0
-Russia                                  226.0
-Romania                                 226.0
-Liechtenstein                           226.0
-Monaco                                  226.0
-Czech Republic                          226.0
-Croatia                                 226.0
 Sweden                                  226.0
-Serbia                                  226.0
-Slovakia                                226.0
+Russia                                  226.0
+Montenegro                              226.0
+Romania                                 226.0
 Madagascar                              176.0
 Uruguay                                 164.0
+Angola                                  144.0
+Gabon                                   144.0
 Republic of Congo                       144.0
 Zambia                                  144.0
-Gabon                                   144.0
-Angola                                  144.0
 Democratic Republic of Congo            111.5
-Ethiopia                                 95.0
+Nicaragua                                98.0
+Mexico                                   98.0
+El Salvador                              98.0
+Guatemala                                98.0
+Honduras                                 98.0
+Belize                                   98.0
 Somalia                                  95.0
+Ethiopia                                 95.0
 Kenya                                    87.0
-Tanzania                                 79.0
 Uganda                                   79.0
+Tanzania                                 79.0
 France                                   77.7
-Spain                                    48.4
+Spain                                    41.3
 Marshall Islands                         13.0
 Tunisia                                   8.0
-China                                     6.2
+China                                     7.1
 Japan                                     6.0
-Taiwan                                    5.0
-Greece                                    5.0
-Guam                                      5.0
 Northern Mariana Islands                  5.0
-Portugal                                  3.0
-Viet Nam                                  3.0
+Guam                                      5.0
+Greece                                    5.0
+Taiwan                                    5.0
 Laos                                      3.0
+Viet Nam                                  3.0
+Portugal                                  3.0
+Belgium                                   2.0
 Canada                                    1.0
 Philippines                               0.5
+Colombia                                  0.0
 Indonesia                                 0.0
 Venezuela                                 0.0
 
 Average event duration by event type (days):
            avg_duration
 eventtype              
-DR                307.5
-FL                 42.7
+DR                284.2
+FL                 36.0
 TC                  5.9
 WF                  4.0
 EQ                  0.0
