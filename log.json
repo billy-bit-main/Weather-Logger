@@ -572,5 +572,33 @@
                 4.8436
             ]
         }
+    ],
+    [
+        {
+            "eventid": 1001305,
+            "eventtype": "TC",
+            "alertlevel": "Orange",
+            "country": "Northern Mariana Islands, Japan, China",
+            "headline": "No headline",
+            "fromdate": "2026-08-18T12:00:00",
+            "todate": "2026-08-24T06:00:00",
+            "coordinates": [
+                134.7,
+                24.5
+            ]
+        },
+        {
+            "eventid": 1030252,
+            "eventtype": "WF",
+            "alertlevel": "Orange",
+            "country": "Serbia",
+            "headline": "No headline",
+            "fromdate": "2026-08-05T00:00:00",
+            "todate": "2026-08-19T00:00:00",
+            "coordinates": [
+                21.1517,
+                44.8606
+            ]
+        }
     ]
 ]
