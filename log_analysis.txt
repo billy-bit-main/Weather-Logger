@@ -11,9 +11,9 @@ Country counts:
 country                               
 China                               14
 Spain                                6
+Indonesia                            4
 Philippines                          4
 Japan                                4
-Indonesia                            3
 France                               3
 Argentina                            2
 Brazil                               2
@@ -87,12 +87,12 @@ TC            16
 EQ            14
 WF            13
 FL             7
-VO             1
+VO             2
 
 Alert level counts:
             count
 alertlevel       
-Orange         94
+Orange         95
 Red            11
 
 Average event duration by country (days):
